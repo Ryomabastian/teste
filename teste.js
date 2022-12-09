@@ -1,8 +1,7 @@
+if (true){
 
-const cidade1 = "Vitoria";
-const cidade2 = "vitoria";
+let n = 5
 
-const deixartudominusculo = cidade1.toLowerCase();
-
-console.log(deixartudominusculo === cidade2);
+console.log (n)
+}
 
